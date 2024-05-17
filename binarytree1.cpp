@@ -105,6 +105,7 @@ int main(){
     addnode(&root, 18);
     addnode(&root, 9);
     addnode(&root, 11);
+    addnode(&root, 121);
     addnode(&root, 7);
     cout << root.data << endl;
     cout << root.right->data << endl;
